@@ -1,4 +1,4 @@
-debian 9.3
+Fedora27
   +  
 apache2  
   +
@@ -6,4 +6,6 @@ php7.1
   +
 mariadb10.1
   +
-wordpress
+wordpress4.9.7
+
+IP : 172.20.22.67

@@ -3,4 +3,7 @@ apache 2.4
 php 7.1
 mariadb 10.2
 +
-wordpress
+wordpress4.9.2
+
+IP : 172.20.22.62
+Wordpressは形崩れ　原因不明
