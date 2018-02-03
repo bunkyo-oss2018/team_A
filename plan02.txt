@@ -1,0 +1,6 @@
+Ubuntu-ja-17.10.1
+apache 2.4
+php 7.1
+mariadb 10.2
++
+wordpress
