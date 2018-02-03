@@ -5,4 +5,7 @@ apache 2.4
 php 7.1
 mariadb 10.2
 +
-wordpress4.7.9
+wordpress4.7.9  
+
+  
+ubuntu自体少々、root権限が直に使えないという点でスムーズな作業が行えなかったのが残念だったが、最終的にはconfigからwordpressをインストールし、外部公開までできたので練習OSにしては十分な出来栄えだったと思う。
