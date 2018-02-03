@@ -1,4 +1,6 @@
-Ubuntu-ja-17.10.1
+Ubuntu-ja-17.10.1 
+http://cdimage.ubuntulinux.jp/releases/17.10.1/ubuntu-ja-17.10.1-desktop-amd64.iso
+
 apache 2.4
 php 7.1
 mariadb 10.2
