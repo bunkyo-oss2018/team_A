@@ -19,6 +19,3 @@ pkgからjp-wordpressをインストール
 MySQLでDBを作成
 
 他にもpostgreSQLやMariaDBで試したが...
-
-
-なんとなくIPアドレスとかの設定が上手くいってないんじゃないかと思う。
