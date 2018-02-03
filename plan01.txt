@@ -1,4 +1,4 @@
-cent os 7.4
+Centos 7.4
 apache 2.4
 php 7.1
 mariadb 10.2
